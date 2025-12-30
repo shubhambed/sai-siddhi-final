@@ -1,0 +1,9 @@
+body{margin:0;font-family:Arial;background:#f4f4f4}
+.header{text-align:center;background:#0b1f3a;color:#fff;padding:20px}
+.logo{width:90px}
+.hero{text-align:center;padding:60px;background:#c9a14a}
+.btn{background:#0b1f3a;color:#fff;padding:12px 20px;text-decoration:none}
+.office,.services,.contact{padding:40px;text-align:center}
+.gallery{display:flex;gap:20px;justify-content:center;flex-wrap:wrap}
+.gallery img{width:300px;border-radius:8px}
+footer{text-align:center;background:#0b1f3a;color:#fff;padding:10px}
